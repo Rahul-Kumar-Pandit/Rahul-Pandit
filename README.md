@@ -1,2 +1,3 @@
 # Rahul-Pandit
-This is my first repository
+This is my first Git Repository
+Author - Rahul Kumar Pandit
